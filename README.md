@@ -1,5 +1,7 @@
 # List
 
+TODO: Categorise the list
+
 1. Javascript
 2. React.js
 3. Node.js
