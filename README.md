@@ -15,7 +15,7 @@
 13. React Native
 14. Electron
 15. Elastic Search
-16. Redis
+16. [Redis](https://github.com/vnoit-learning/redis)
 17. RabbitMQ
 18. GraphQL
 19. HTML
